@@ -1,0 +1,41 @@
+h1 {
+    color: rgb(39, 174, 96);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: rgb(250, 128, 114);
+}
+
+.special {
+    color: rgb(205, 92, 92);
+    font-style: italic;
+    font-size: larger;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+    font-family: "Oswald", sans-serif;
+}
+
+body {
+    background-color: rgb(255, 0, 0);
+}
+
+div {
+    margin: 10px;
+}
+
+.class {
+    font-weight: 800;
+}
+
+.newclass {
+    font-size: xx-large;
+}
