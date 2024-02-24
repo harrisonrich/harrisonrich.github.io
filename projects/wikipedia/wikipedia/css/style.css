@@ -1,6 +1,7 @@
 body {
     font-family: "Noto Serif", serif;
     background-color: #33A4D6;
+    font-size: 14px;
     line-height: 1.2
 }
 
@@ -9,26 +10,22 @@ img {
     margin: 0 0 2em 0;
 }
 
-.highlight {
-    color: #5BE86E;
-    text-align: center;
-    background-color: #F64910;
-}
-
 h1 {
-    font-size: 18px;
+    font-size: 3em;
+    background-color: #5BE86E;
     text-align: center;
 }
 
 h2 {
     font-family: "PT Sans Narrow", sans-serif;
-    font-size: 14px
+    font-size: 2em
 }
 
 h3 {
-    font-size: 12px
+    font-size: 1em
 }
 
 main {
     width: 55%;
+    margin: 1em 0 3em 1em
 }
