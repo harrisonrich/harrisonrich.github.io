@@ -1,0 +1,77 @@
+/*
+font-family: "Fira Sans", sans-serif;
+font-family: "EB Garamond", serif;
+
+
+green #08370E
+tan #CCC17C
+black #011610
+white #FFFFFF
+
+*/
+
+.fluid-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.center-text {
+    text-align: center;
+    line-height: 200px;
+}
+
+.head {
+    background-color: #08370E;
+    color: #FFFFFF;
+    font-family: "Fira Sans", sans-serif;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 3em;
+}
+
+nav a {
+    text-transform: uppercase;
+    font-size: .80em;
+    padding: 3%;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 1.4em;
+    font-weight: 400;
+    line-height: 8
+}
+
+h3 {
+    font-size: 1.5em;
+    font-weight: 300;
+}
+
+h4 {
+    font-size: 0.8em;
+    font-weight: 200;
+    line-height: 4;
+}
+
+h5 {
+    font-size: 1.4em;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "EB Garamond", serif;
+    line-height: 2;
+}
+
+.light-block {
+    background-color: #CCC17C;
+    color: #011610;
+}
+
+.small-images {
+    width: 24%;
+    height: auto;
+    padding: 3%;
+}
