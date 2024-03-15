@@ -1,0 +1,21 @@
+header {
+    background-color: #FFFFFF;
+    color: #171C21;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    line-height: 5em;
+}
+
+footer {
+    background-color: #A5EEA6;
+    color: #FFFFFF;
+    line-height: 3em
+}
+
+h2 {
+    font-size: larger;
+    text-align: center;
+}
