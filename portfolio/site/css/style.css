@@ -25,6 +25,13 @@ header {
     width: auto;
 }
 
+.headline {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+    color: #7ADA7A;
+}
+
 .h0 {
     text-align: center;
     font-family: "Lato", sans-serif;
