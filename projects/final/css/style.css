@@ -1,0 +1,34 @@
+body {
+    background-color: #FDF2E1;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-family: "Bodoni Moda", serif;
+    color: #c71e1d;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+p {
+    font-family: "Libre Bodoni", serif;
+}
+
+.graphs {
+    width: 100%;
+    padding: 20px;
+    border: none;
+}
+
+.photo-caption {
+    font-size: 0.8em;
+}
